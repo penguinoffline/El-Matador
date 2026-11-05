@@ -17,9 +17,9 @@ For detailed design changes, see [CHANGELOG.md](CHANGELOG.md).
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1b49932b-0fef-4cb4-9da5-1c195e22e5b1" />
 
 
-The .stl files for both the top and bottom chassis can be found in **CAD** under the name 'Chassis bottom' and 'Chassis Top'.
+The .stl files for both the top and bottom chassis can be found in '**CAD**' under the name 'Chassis bottom' and 'Chassis Top'.
 
-## Design Version
+## Design Versions
 
 **V1 — Prototype**  
 Rough chassis with electronics integrated, excluding motors and wheels.
