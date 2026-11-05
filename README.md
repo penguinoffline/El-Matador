@@ -4,7 +4,7 @@ El Matador is a 150 g combat robotics project developed using Autodesk Fusion 36
 
 The current configuration is V4, modified to accommodate a NiMH battery.
 
-##Design constraints:
+## Design constraints:
 - Maximum robot mass: 150 g
 - Chassis width: approximately 250 mm
 - Manufacturing material: ABS
@@ -19,7 +19,7 @@ For detailed design changes, see [CHANGELOG.md](CHANGELOG.md).
 
 The .stl files for both the top and bottom chassis can be found in **CAD** under the name 'Chassis bottom' and 'Chassis Top'.
 
-##Design Version
+## Design Version
 
 **V1 — Prototype**  
 Rough chassis with electronics integrated, excluding motors and wheels.
