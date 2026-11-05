@@ -21,8 +21,6 @@ The .stl files for both the top and bottom chassis can be found in **CAD** under
 
 Fusion 360 CAD versions V1–V4.
 
-## Design Evolution
-
 **V1 — Prototype**  
 Rough chassis with electronics integrated, excluding motors and wheels.
 
