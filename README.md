@@ -49,3 +49,6 @@ Reduced chassis length and achieved the target weight.
 
 **V4 — NiMH Configuration**  
 Adapted V3 to accommodate NiMH battery.
+
+## Authorship
+The design, electronics selection, and manufacturing process are all done by me in Autodesk Fusion 360 and Bamboo studio. Reuse of the design is allowed without any conditions (I'm too lazy to add a terms & conditions or a license).
