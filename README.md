@@ -4,7 +4,7 @@ El Matador is a 150 g combat robotics project developed using Autodesk Fusion 36
 
 The current configuration is V4, modified to accommodate a NiMH battery.
 
-## Short intro from me as always:
+## Short introooo:
 
 **23 Nov. 2026**
 
